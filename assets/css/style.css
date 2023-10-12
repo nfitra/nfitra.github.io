@@ -1207,3 +1207,8 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.swiper-slide > img {
+  height: 550px;
+  object-fit: contain;
+}
